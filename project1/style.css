@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(12, 12, 12);
+}
+#girl{
+   padding: 30px;
+}
+#girl img{
+    margin-left: 28%;
+    border: 10px solid beige;
+}
+#girl h1{
+    margin-left: 38%;
+    color: rgb(244, 243, 238);
+}
+#girl p{
+    margin-left: 42%;
+    color:aliceblue;
+}
